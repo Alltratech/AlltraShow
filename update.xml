@@ -1,11 +1,1 @@
 <?xml version="1.0"?>
-<winUpdate>
-    <update appId="AlltraVid">
-        <version>1.0.2.0</version>         
-        <url>https://api.bitbucket.org/2.0/repositories/alltratech/alltravidrelease/src/master/AlltraVidSetup.exe</url>
-        <fileName>AlltraVidSetup.exe</fileName>
-        <md5>778b00429d7ecca30347de284c7a2de5</md5>
-        <description>Video Converter</description> 
-        <launchArgs></launchArgs>
-    </update>
-</winUpdate>
